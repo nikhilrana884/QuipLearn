@@ -1,0 +1,3 @@
+exports.creaatePost = (req, res) => {
+    
+}
